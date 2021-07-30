@@ -1,4 +1,5 @@
 # Digital Image Processing Laboratory
+<p align="center"> <img src="animation.gif" width=600 height=400> </p>
 Bài tập thực hành Phân tích và xử lý ảnh HK1 20-21 <br/>
 Nội dung chính của các bài thực hành: <br/>
 <ul>
