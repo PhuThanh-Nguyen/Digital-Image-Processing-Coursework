@@ -81,3 +81,4 @@ Nội dung chính của các bài thực hành: <br/>
       </ul>
   </li>
 </ul>
+<i> Note: </i> Chi tiết về code tạo ra ảnh .gif trên có trong <a href = https://github.com/PhuThanh-Nguyen/Small-Projects/tree/main/Convolution%20animation> repo này
