@@ -1,5 +1,8 @@
 # Digital Image Processing Laboratory
 <p align="center"> <img src="animation.gif" width=600 height=400> </p>
+<p align="center">
+  <i> Cách thức hoạt động của convolution 2D giữa ảnh xám với Gaussian kernel 5x5</i>
+</p>
 Bài tập thực hành Phân tích và xử lý ảnh HK1 20-21 <br/>
 Nội dung chính của các bài thực hành: <br/>
 <ul>
@@ -81,4 +84,4 @@ Nội dung chính của các bài thực hành: <br/>
       </ul>
   </li>
 </ul>
-<i> Note: </i> Chi tiết về code tạo ra ảnh .gif trên có trong <a href = https://github.com/PhuThanh-Nguyen/Small-Projects/tree/main/Convolution%20animation> repo này
+<i> Note: </i> Chi tiết về code tạo ra ảnh .gif trên có trong <a href = https://github.com/PhuThanh-Nguyen/Small-Projects/tree/main/Convolution%20animation> repo này </a>
